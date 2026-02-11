@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 💬 Let's Connect!
+
+Feel free to reach out if you want to collaborate on a project, talk about [your interest - e.g., web development, open source, etc.], or just chat about code!
+
+![Profile Views](https://komarev.com/ghpvc/?username=sebacodes&color=blueviolet)
