@@ -25,4 +25,4 @@ Feel free to reach out if you want to collaborate on a project, talk about Open 
 
 
 ### Github Stats
-[![Sebacodes's GitHub stats](github-readme-stats-two-green-70.vercel.app/api?username=sebacodes)](https://github.com/sebacodes)
+[![Sebacodes's GitHub stats](https://github-readme-stats-two-green-70.vercel.app/api?username=sebacodes)](https://github.com/sebacodes)
