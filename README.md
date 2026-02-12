@@ -23,6 +23,3 @@ Feel free to reach out if you want to collaborate on a project, talk about Open 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sebacodes&color=blueviolet)
 
-### Github stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebacodes)](https://github.com/sebacodes/github-readme-stats)
