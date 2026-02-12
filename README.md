@@ -21,10 +21,5 @@ Feel free to reach out if you want to collaborate on a project, talk about Open 
 
 [![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u438160e)
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sebacodes&theme=gotham)](https://git.io/streak-stats)
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=sebacodes&color=blueviolet)
 
