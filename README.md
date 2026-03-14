@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on scalable web apps, AI Agents and MCP servers.
 - 🌱 I’m currently learning Chess and refining my Agentic workflows.
 - 👯 I’m looking to collaborate on Open Source.
-- ⚡ Fun fact: I run Linux on everything.
 
 ### 💬 Let's Connect!
 
